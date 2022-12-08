@@ -1,15 +1,15 @@
-testes
+#testes
 Project with study purpose, where I put in pratice good habits in testing methods.
 
-What is used
-javascript
-jest
-babel
+##What is used
+-javascript
+-jest
+-babel
 
-Usage
+##Usage
 In this project each file that contains the implementation of methods, has also a file with the same name but with .spec.js in the end, that contains the test suit. Ex: calculator.js => calculator.espec.js
 
-Getting Started
+##Getting Started
 Type git clone https://github.com/ydroulis/img-crop.git to clone the project in your directory
 
 Then run npm install or yarn add to install alll the dependencies
