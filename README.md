@@ -20,24 +20,24 @@ Then run npm install or yarn add to install alll the dependencies
 
 Now, to run all the test:
 
+```bash
 npm test
-
 # or
-
 yarn test
+```
 
 If you want to run all the tests automatically whenever you save some modification:
 
+```bash
 npm test:watch
-
 # or
-
 yarn test:watch
+```
 
 To get a report with tests coverage:
 
+```bash
 npm test --coverage
-
 # or
-
 yarn test --coverage
+```
