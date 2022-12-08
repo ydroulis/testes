@@ -14,7 +14,7 @@ In this project each file that contains the implementation of methods, has also 
 
 ## Getting Started
 
-Type git clone https://github.com/ydroulis/img-crop.git to clone the project in your directory
+Type git clone https://github.com/ydroulis/testes.git to clone the project in your directory
 
 Then run npm install or yarn add to install alll the dependencies
 
