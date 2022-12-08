@@ -4,9 +4,9 @@ Project with study purpose, where I put in pratice good habits in testing method
 
 ## What is used
 
--javascript
--jest
--babel
+- javascript
+- jest
+- babel
 
 ## Usage
 
